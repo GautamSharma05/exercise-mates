@@ -2,7 +2,7 @@ import 'package:async_loader/async_loader.dart';
 import 'package:auto_route/auto_route.dart';
 import 'package:exercisemates/constant/colors.dart';
 import 'package:exercisemates/constant/text.dart';
-import 'package:exercisemates/module/exercise_detail/widget/description_widget.dart';
+import 'package:exercisemates/module/exercise_detail/widget/row_description_widget.dart';
 import 'package:exercisemates/module/home_page/model/exercises.dart';
 import 'package:exercisemates/riverpod/riverpod.dart';
 import 'package:flutter/material.dart';
