@@ -4,4 +4,8 @@ class AppText{
   static const String apiHost = 'exercisedb.p.rapidapi.com';
   static const String somethingWentWrongText = 'Something Went Wrong';
   static const String exerciseDetail = 'Exercise Detail';
+  static const String equipmentName = 'Equipment Name: ';
+  static const String exerciseName = 'Exercise Name: ';
+  static const String bodyPart = 'Body Part: ';
+  static const String target ='Target: ';
 }
